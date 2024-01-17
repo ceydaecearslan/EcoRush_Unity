@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2dd20fd0f9d474b44a0ec901ea125339
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PaperText: {instanceID: 0}
+  - PlasticText: {instanceID: 0}
+  - GlassText: {instanceID: 0}
+  - PaperTrash: {instanceID: 0}
+  - PlasticTrash: {instanceID: 0}
+  - GlassTrash: {fileID: 103030, guid: 8b342121ff2be5a45b964062c2ec412f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
