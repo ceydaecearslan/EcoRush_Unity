@@ -25,7 +25,7 @@ https://unity.com/products/unity-engine
 
 • Open Unity Hub. Click on the 'Add' button and select the directory where you cloned or extracted the ZIP the project.
 
-• Then the project should start automatically in a few minutes.
+• Then the project should start automatically in a few seconds.
 ## In-Game Screenshots
 
 ![main_menu](https://github.com/ceydaecearslan/EcoRush_Unity/blob/master/main_menu.png)
