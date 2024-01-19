@@ -6,14 +6,14 @@ EcoRush is a hyper-casual runner game where the goal is to collect trash on the 
 
 ## Used Technologies
 
- - Unity 2022.3.9f
+ - Unity 2022.3.9f1
  - Visual Studio Code for Scripting
 
 
 
 ## Deployment
 
-• First you need to have Unity 2022.3.9f or a newer version installed. If you don't have it, please download and install an appropriate version of Unity from the following link: 
+• First you need to have Unity 2022.3.9f1 or a newer version installed. If you don't have it, please download and install an appropriate version of Unity from the following link: 
 
 https://unity.com/products/unity-engine
 
