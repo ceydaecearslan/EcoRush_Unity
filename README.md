@@ -23,7 +23,7 @@ https://unity.com/products/unity-engine
   git clone https://github.com/ceydaecearslan/EcoRush_Unity.git
 ```
 
-• Open Unity Hub. Click on the 'Add' button and select the directory where you cloned or extracted the ZIP the project.
+• Open Unity Hub. Click on the 'Add' button and select the directory where you cloned the project or extracted the ZIP.
 
 • Then the project should start automatically in a few seconds.
 ## In-Game Screenshots
